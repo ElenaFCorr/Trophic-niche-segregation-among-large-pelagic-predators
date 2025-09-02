@@ -1,2 +1,14 @@
-# Trophic-niche-segregation-among-large-pelagic-predators
-This repository contains all the R code used in the article "Pelagic productivity and abundance of competitors modulate inter- and intraspecific trophic niche segregation among large sympatric predators "
+# Pelagic productivity and abundance of competitors modulate inter- and intraspecific trophic niche segregation among large sympatric predators  
+
+This repository contains all the R code used in the article "Pelagic productivity and abundance of competitors modulate inter- and intraspecific trophic niche segregation among large sympatric predators" under review in *Proceedings of the Royal Society B*
+
+In the open ocean, large pelagic predators often share similar food resources and feeding grounds, likely avoiding competition and coexisting through niche partitioning. Here, we combined spatial distribution data, isotopic niche metrics, and dietary reconstructions to describe spatial patterns of intra- and interspecific competition of three sympatric large pelagic predators: the swordfish (*Xiphias gladius*), the blue shark (*Prionace glauca*), and the shortfin mako (*Isurus oxyrinchus*). We used stable isotopes (δ15N and δ13C) to calculate the isotopic niche width and the overlap among the species based on Kernel Utilization Density estimators, the isotopic distance between species, the Intraspecific Trophic Pressure index, and diet proportions using mixing models. Mako sharks had a high isotopic niche overlap with blue sharks, with similar prey consumption. We found a high niche overlap between swordfish and blue sharks in the Mediterranean, although the diet estimates suggested that these two species rely on different prey groups. We fit Generalized Additive Models (GAM) to evaluate the relationships among competition metrics and biological (competitor abundance), environmental (pelagic productivity), and anthropogenic (fishing pressure) drivers. Our results suggest pelagic productivity and abundance of competitors are key drivers of inter- and intraspecific trophic niche segregation among large sympatric pelagic predators. They support the hypothesis of niche partitioning being reduced under a high resource availability scenario. 
+
+<img width="1280" height="720" alt="graphical abstract" src="https://github.com/user-attachments/assets/fe44e718-06d3-4f93-8604-205f155cd84a" />
+
+## License
+Copyright (c) 2025 Elena Fernández Corredor Licensed under the MIT license.
+
+## Acknowledgements
+We thank all the technicians, researchers, and observers from IEO-CSIC involved in the onboard sampling of the individuals included in this study, especially to Laura Palacín, Samuel Valverde, and Matxalen Pauly, and the fishers that made this possible. This study is a contribution of the Trophic Ecology and Connectivity facility (TEC) of the Institute of Marine Science (ICM-CSIC). This work also acknowledges the “Severo Ochoa Centre of Excellence” accreditation (CEX2024-001494-S) to the Institute of Marine Science (ICM-CSIC). This work has been carried out within the framework of the Biodiversity PhD program of the Autonomous University of Barcelona. 
+
