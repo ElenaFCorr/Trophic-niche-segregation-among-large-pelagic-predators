@@ -1,0 +1,9 @@
+"area";"OverlapID";"IOO_95";"PGO_95";"SWO_95"
+"Sur Portugal";"IOO_95";1;0.816;0.487
+"Sur Portugal";"PGO_95";0.706;1;0.348
+"Sur Portugal";"SWO_95";0.607;0.501;1
+"Canarias";"IOO_95";1;0.686;0.49
+"Canarias";"PGO_95";0.848;1;0.558
+"Canarias";"SWO_95";0.84;0.775;1
+"WMed";"PGO_95";NA;1;0.386
+"WMed";"SWO_95";NA;0.921;1
