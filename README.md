@@ -1,6 +1,6 @@
 # Pelagic productivity and abundance of competitors modulate inter- and intraspecific trophic niche segregation among large sympatric predators  
 
-This repository contains all the R code used in the article "Pelagic productivity and abundance of competitors modulate inter- and intraspecific trophic niche segregation among large sympatric predators" under review in *Proceedings of the Royal Society B*
+This repository contains all the R code used in the article "Pelagic productivity and abundance of competitors modulate inter- and intraspecific trophic niche segregation among large sympatric predators" available in [*Proceedings of the Royal Society B*](https://doi.org/10.1111/1365-2656.70087).
 
  Spatial data can be downloaded from [*Zenodo*](https://doi.org/10.5281/zenodo.17037638).
 
